@@ -1,0 +1,15 @@
+﻿@model Selector_ModoViewModel
+
+@{
+    ViewData["Title"] = "Modo Index";
+}
+ 
+<form method="post">
+    <select asp-for="GetTipoModo"
+            asp-items="Html.GetEnumSelectList<TipoModo>()"
+            class="form-control"></select>
+
+    <button class="btn btn-success mt-3">
+        Guardar modo
+    </button>
+</form>

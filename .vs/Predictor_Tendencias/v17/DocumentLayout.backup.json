@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\aplications\\dtos\\smadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|solutionrelative:aplications\\dtos\\smadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\aplications\\services\\linearservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|solutionrelative:aplications\\services\\linearservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\aplications\\dtos\\lineardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|solutionrelative:aplications\\dtos\\lineardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\aplications\\dtos\\rocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|solutionrelative:aplications\\dtos\\rocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\controllers\\modocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\controllers\\modocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\aplications\\viewmodels\\modoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|solutionrelative:aplications\\viewmodels\\modoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\predictor_tendencias\\views\\modo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16C21B82-A81A-4172-8BE9-5656BB849EA7}|Predictor_Tendencias\\Predictor_Tendencias.csproj|solutionrelative:predictor_tendencias\\views\\modo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\aplications\\enums\\prediccionconfi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|solutionrelative:aplications\\enums\\prediccionconfi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\aplications\\viewmodels\\selector_modoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|solutionrelative:aplications\\viewmodels\\selector_modoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\aplications\\enums\\tipomodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|solutionrelative:aplications\\enums\\tipomodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|c:\\users\\dell 5490\\documents\\predictor_tendencias\\aplications\\interfaces\\icalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554A80A-BB28-4BCD-8EB2-5290D081A246}|Aplications\\Aplications.csproj|solutionrelative:aplications\\interfaces\\icalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Predictor_Tendencias\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T04:04:14.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Smadto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Dtos\\Smadto.cs",
+              "RelativeDocumentMoniker": "Aplications\\Dtos\\Smadto.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Dtos\\Smadto.cs",
+              "RelativeToolTip": "Aplications\\Dtos\\Smadto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:08:03.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Predictor_Tendencias\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T04:04:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Predictor_Tendencias\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T04:03:48.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Predictor_Tendencias\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T18:37:29.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Predictor_Tendencias\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T04:03:43.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\ViewModels\\ModoViewModel.cs",
+              "RelativeDocumentMoniker": "Aplications\\ViewModels\\ModoViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\ViewModels\\ModoViewModel.cs",
+              "RelativeToolTip": "Aplications\\ViewModels\\ModoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:08:25.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinearService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Services\\LinearService.cs",
+              "RelativeDocumentMoniker": "Aplications\\Services\\LinearService.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Services\\LinearService.cs",
+              "RelativeToolTip": "Aplications\\Services\\LinearService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:08:21.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lineardto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Dtos\\Lineardto.cs",
+              "RelativeDocumentMoniker": "Aplications\\Dtos\\Lineardto.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Dtos\\Lineardto.cs",
+              "RelativeToolTip": "Aplications\\Dtos\\Lineardto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:07:56.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rocdto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Dtos\\Rocdto.cs",
+              "RelativeDocumentMoniker": "Aplications\\Dtos\\Rocdto.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Dtos\\Rocdto.cs",
+              "RelativeToolTip": "Aplications\\Dtos\\Rocdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:08:00.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Controllers\\ModoController.cs",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\Controllers\\ModoController.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Controllers\\ModoController.cs",
+              "RelativeToolTip": "Predictor_Tendencias\\Controllers\\ModoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T04:09:52.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Predictor_Tendencias\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:51:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\Modo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\Views\\Modo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Views\\Modo\\Index.cshtml",
+              "RelativeToolTip": "Predictor_Tendencias\\Views\\Modo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T04:33:03.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Program.cs",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\Program.cs",
+              "RelativeToolTip": "Predictor_Tendencias\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T04:41:57.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\appsettings.json",
+              "RelativeDocumentMoniker": "Predictor_Tendencias\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Predictor_Tendencias\\appsettings.json",
+              "RelativeToolTip": "Predictor_Tendencias\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T04:03:37.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrediccionConfi.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Enums\\PrediccionConfi.cs",
+              "RelativeDocumentMoniker": "Aplications\\Enums\\PrediccionConfi.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Enums\\PrediccionConfi.cs",
+              "RelativeToolTip": "Aplications\\Enums\\PrediccionConfi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:08:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Selector_ModoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\ViewModels\\Selector_ModoViewModel.cs",
+              "RelativeDocumentMoniker": "Aplications\\ViewModels\\Selector_ModoViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\ViewModels\\Selector_ModoViewModel.cs",
+              "RelativeToolTip": "Aplications\\ViewModels\\Selector_ModoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:17:05.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TipoModo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Enums\\TipoModo.cs",
+              "RelativeDocumentMoniker": "Aplications\\Enums\\TipoModo.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Enums\\TipoModo.cs",
+              "RelativeToolTip": "Aplications\\Enums\\TipoModo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:08:13.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Icalculo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Interfaces\\Icalculo.cs",
+              "RelativeDocumentMoniker": "Aplications\\Interfaces\\Icalculo.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\Predictor_Tendencias\\Aplications\\Interfaces\\Icalculo.cs",
+              "RelativeToolTip": "Aplications\\Interfaces\\Icalculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:08:17.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\bin\Debug\net9.0\Aplications.deps.json
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\bin\Debug\net9.0\Aplications.dll
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\bin\Debug\net9.0\Aplications.pdb
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\obj\Debug\net9.0\Aplications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\obj\Debug\net9.0\Aplications.AssemblyInfoInputs.cache
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\obj\Debug\net9.0\Aplications.AssemblyInfo.cs
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\obj\Debug\net9.0\Aplications.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\obj\Debug\net9.0\Aplications.dll
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\obj\Debug\net9.0\refint\Aplications.dll
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\obj\Debug\net9.0\Aplications.pdb
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplications\obj\Debug\net9.0\ref\Aplications.dll

@@ -1,0 +1,93 @@
+﻿@model ModoViewModel
+@{
+    ViewData["Title"] = "Home Index";
+}
+
+<h3>Modo actual: @Model.modo</h3>
+
+<form asp-action="CalcularValor" method="post">
+    <div class="row">
+        @for (int i = 0; i < 20; i++)
+        {
+            <div class="col-md-3 mb-2">
+                <input type="date" name="fecha[@i]" class="form-control" required />
+                <input type="number" step="0.01" name="Precio[@i]"
+                       class="form-control mt-1" required />
+            </div>
+        }
+    </div>
+    <div class="d-flex justify-content-center align-items-center" style="height: 10vh;">
+        <button class="btn btn-primary mt-3">
+            Calcular predicción
+        </button>
+    </div>
+    
+</form>
+
+@if (Model.resultado != null)
+{
+        <hr />
+        <h4>Resultado de la predicción</h4>
+
+    @if (Model.resultado is Aplications.Dtos.Smadto sma)
+    {
+                <div class="card mt-3">
+                    <div class="card-body">
+                        <p><strong>SMA corta:</strong> @sma.smacorta</p>
+                        <p><strong>SMA larga:</strong> @sma.smalarga</p>
+                        <p><strong>Tendencia:</strong> @sma.tendencia</p>
+                    </div>
+                </div>
+
+        @if (Model.resultado is Aplications.Dtos.Lineardto lin)
+        {
+            <div class="card mt-3 border-success">
+                <div class="card-body">
+                    <h5 class="card-title">Regresión Lineal</h5>
+
+                    <p><strong>Pendiente:</strong> @lin.Pendiente</p>
+                    <p><strong>Intersección:</strong> @lin.Interseccion</p>
+                    <p><strong>Fecha proyectada:</strong> @lin.FechaProyectada.ToShortDateString()</p>
+                    <p><strong>Valor proyectado:</strong> @lin.ValorProyectado</p>
+                    <p><strong>Tendencia:</strong> @lin.tendencia</p>
+                </div>
+            </div>
+        }
+
+
+
+            @if (Model.resultado is Aplications.Dtos.Rocdto roc)
+            {
+                <div class="card mt-3 border-warning">
+                    <div class="card-body">
+                        <h5 class="card-title">Rate of Change (ROC)</h5>
+
+                        <table class="table table-sm">
+                            <thead>
+                                <tr>
+                                    <th>Fecha</th>
+                                    <th>Precio</th>
+                                    <th>ROC</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var r in roc.elemento)
+                                {
+                                    <tr>
+                                        <td>@r.fechas.ToShortDateString()</td>
+                                        <td>@r.precio</td>
+                                        <td>@r.Roc</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                        <p><strong>Tendencia:</strong> @roc.tendencia</p>
+                    </div>
+                </div>
+            
+           }
+}
+
+
+}

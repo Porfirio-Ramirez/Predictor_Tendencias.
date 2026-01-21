@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Predictor_Tendencias.props" />
+</Project>

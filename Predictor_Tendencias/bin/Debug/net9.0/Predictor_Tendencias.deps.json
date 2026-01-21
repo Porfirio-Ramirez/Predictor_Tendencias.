@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Predictor_Tendencias/1.0.0": {
+        "dependencies": {
+          "Aplications": "1.0.0"
+        },
+        "runtime": {
+          "Predictor_Tendencias.dll": {}
+        }
+      },
+      "Aplications/1.0.0": {
+        "runtime": {
+          "Aplications.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Predictor_Tendencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aplications/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,4 @@
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplication\obj\Debug\net9.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplication\obj\Debug\net9.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplication\obj\Debug\net9.0\Aplication.AssemblyInfo.cs
+C:\Users\DELL 5490\Documents\Predictor_Tendencias\Aplication\obj\Debug\net9.0\Aplication.csproj.CoreCompileInputs.cache
